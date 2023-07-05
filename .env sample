@@ -1,0 +1,11 @@
+GOOGLE_CLIENT_ID= 52734579943.apps..com
+GOOGLE_CLIENT_SECRET= GOCSP
+
+GITHUB_CLIENT_ID= fjsdflsdjfdsfsdf
+GITHUB_CLIENT_SECRET= sdfdsfdsfdfsd
+
+FACEBOOK_CLIENT_ID= sfdsfdsf
+FACEBOOK_CLIENT_SECRET= dsfdsfdsfsdfdsf;sdklfsd
+
+NEXTAUTH_URL= 'http://localhost:3000'
+JWT_SECRET =k;k;fsdfksf55e32c2307b5
